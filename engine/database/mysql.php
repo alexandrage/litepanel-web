@@ -70,7 +70,7 @@ final class mysqlDriver {
   	}
 	
 	public function __destruct() {
-		mysql_close($this->link);
+		@mysql_close($this->link);
 	}
 }
 ?>

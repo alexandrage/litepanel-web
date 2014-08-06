@@ -17,7 +17,7 @@
     
     <link href="/application/public/css/main.css" rel="stylesheet">
 	<link href="/application/public/css/bootstrap.min.css" rel="stylesheet">
-	<!--link href="/application/public/css/bootstrap-theme.min.css" rel="stylesheet"-->
+	<link href="/application/public/css/bootstrap-theme.min.css" rel="stylesheet">
 	
 	<script src="/application/public/js/jquery.min.js"></script>
 	<script src="/application/public/js/jquery.form.min.js"></script>
